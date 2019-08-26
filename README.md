@@ -15,7 +15,7 @@ Create script - powershell
 
 Running powershell file 
 
-1. Open PowerShell `run as admin`
+1. Open PowerShell **run as administrator**
 2. Enter Set-ExecutionPolicy RemoteSigned in shell
 3. Type A and `enter`
 
